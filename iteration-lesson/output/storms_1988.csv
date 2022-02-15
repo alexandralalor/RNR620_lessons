@@ -1,0 +1,260 @@
+"","name","month","day","hour","lat","long","status","category","wind","pressure","ts_diameter","hu_diameter"
+"1","Alberto",8,5,18,32,-77.5,"tropical depression","-1",20,1015,NA,NA
+"2","Alberto",8,6,0,32.8,-76.2,"tropical depression","-1",20,1014,NA,NA
+"3","Alberto",8,6,6,34,-75.2,"tropical depression","-1",20,1013,NA,NA
+"4","Alberto",8,6,12,35.2,-74.6,"tropical depression","-1",25,1012,NA,NA
+"5","Alberto",8,6,18,37,-73.5,"tropical depression","-1",25,1011,NA,NA
+"6","Alberto",8,7,0,38.7,-72.4,"tropical depression","-1",25,1009,NA,NA
+"7","Alberto",8,7,6,40,-70.8,"tropical depression","-1",30,1006,NA,NA
+"8","Alberto",8,7,12,41.5,-69,"tropical storm","0",35,1002,NA,NA
+"9","Alberto",8,7,18,43,-67.5,"tropical storm","0",35,1002,NA,NA
+"10","Alberto",8,8,0,45,-65.5,"tropical storm","0",35,1004,NA,NA
+"11","Alberto",8,8,6,47,-63,"tropical storm","0",35,1006,NA,NA
+"12","Beryl",8,8,0,30.4,-90.3,"tropical depression","-1",25,1010,NA,NA
+"13","Beryl",8,8,6,29.7,-89.7,"tropical depression","-1",30,1009,NA,NA
+"14","Beryl",8,8,12,29.7,-89.4,"tropical storm","0",35,1007,NA,NA
+"15","Beryl",8,8,18,29.4,-89.2,"tropical storm","0",40,1005,NA,NA
+"16","Beryl",8,9,0,29.3,-89.1,"tropical storm","0",45,1002,NA,NA
+"17","Beryl",8,9,6,29.6,-89.5,"tropical storm","0",45,1001,NA,NA
+"18","Beryl",8,9,12,30.1,-90.4,"tropical storm","0",45,1002,NA,NA
+"19","Beryl",8,9,18,30.1,-90.9,"tropical storm","0",40,1005,NA,NA
+"20","Beryl",8,10,0,30.3,-91.6,"tropical depression","-1",30,1006,NA,NA
+"21","Beryl",8,10,6,30.7,-92.2,"tropical depression","-1",30,1007,NA,NA
+"22","Beryl",8,10,12,31.2,-92.6,"tropical depression","-1",25,1008,NA,NA
+"23","Beryl",8,10,18,31.7,-93.2,"tropical depression","-1",20,1011,NA,NA
+"24","Chris",8,21,12,14.9,-43.3,"tropical depression","-1",25,1009,NA,NA
+"25","Chris",8,21,18,14.6,-45.7,"tropical depression","-1",25,1009,NA,NA
+"26","Chris",8,22,0,14.6,-47.8,"tropical depression","-1",25,1009,NA,NA
+"27","Chris",8,22,6,14.7,-49.9,"tropical depression","-1",25,1009,NA,NA
+"28","Chris",8,22,12,14.8,-51.9,"tropical depression","-1",30,1009,NA,NA
+"29","Chris",8,22,18,15.1,-54,"tropical depression","-1",30,1009,NA,NA
+"30","Chris",8,23,0,15.3,-55.7,"tropical depression","-1",30,1009,NA,NA
+"31","Chris",8,23,6,15.6,-57.5,"tropical depression","-1",30,1009,NA,NA
+"32","Chris",8,23,12,16,-59.2,"tropical depression","-1",30,1009,NA,NA
+"33","Chris",8,23,18,16.3,-61,"tropical depression","-1",30,1009,NA,NA
+"34","Chris",8,24,0,16.7,-62.4,"tropical depression","-1",30,1009,NA,NA
+"35","Chris",8,24,6,16.9,-63.8,"tropical depression","-1",30,1009,NA,NA
+"36","Chris",8,24,12,17.2,-65.2,"tropical depression","-1",30,1009,NA,NA
+"37","Chris",8,24,18,17.5,-66.7,"tropical depression","-1",30,1009,NA,NA
+"38","Chris",8,25,0,17.8,-67.8,"tropical depression","-1",30,1009,NA,NA
+"39","Chris",8,25,6,18.2,-68.8,"tropical depression","-1",30,1009,NA,NA
+"40","Chris",8,25,12,18.5,-69.8,"tropical depression","-1",30,1008,NA,NA
+"41","Chris",8,25,18,19.1,-70.9,"tropical depression","-1",30,1008,NA,NA
+"42","Chris",8,26,0,19.8,-72.1,"tropical depression","-1",30,1008,NA,NA
+"43","Chris",8,26,6,20.5,-73.2,"tropical depression","-1",30,1008,NA,NA
+"44","Chris",8,26,12,21.5,-74.2,"tropical depression","-1",30,1008,NA,NA
+"45","Chris",8,26,18,22.5,-75.4,"tropical depression","-1",30,1008,NA,NA
+"46","Chris",8,27,0,23.3,-76.2,"tropical depression","-1",30,1008,NA,NA
+"47","Chris",8,27,6,24.1,-77.2,"tropical depression","-1",30,1008,NA,NA
+"48","Chris",8,27,12,24.9,-78.1,"tropical depression","-1",30,1008,NA,NA
+"49","Chris",8,27,18,25.8,-79,"tropical depression","-1",30,1008,NA,NA
+"50","Chris",8,28,0,26.8,-79.7,"tropical depression","-1",30,1008,NA,NA
+"51","Chris",8,28,6,28.2,-80,"tropical storm","0",40,1008,NA,NA
+"52","Chris",8,28,12,30.8,-80.8,"tropical storm","0",45,1005,NA,NA
+"53","Chris",8,28,15,32,-80.9,"tropical storm","0",40,1005,NA,NA
+"54","Chris",8,28,18,32.8,-81.1,"tropical storm","0",35,1006,NA,NA
+"55","Chris",8,29,0,34.1,-81.1,"tropical depression","-1",25,1008,NA,NA
+"56","Chris",8,29,6,35.8,-80.6,"tropical depression","-1",20,1009,NA,NA
+"57","Chris",8,29,12,37.5,-79.5,"tropical depression","-1",20,1009,NA,NA
+"58","Chris",8,29,18,39.2,-77.6,"tropical depression","-1",20,1010,NA,NA
+"59","Chris",8,30,0,41.2,-73.6,"tropical depression","-1",20,1008,NA,NA
+"60","Chris",8,30,6,43.5,-69.9,"tropical depression","-1",20,1008,NA,NA
+"61","Chris",8,30,12,45,-65,"tropical depression","-1",25,1008,NA,NA
+"62","Chris",8,30,18,46.5,-60,"tropical depression","-1",25,1008,NA,NA
+"63","Debby",8,31,18,20.1,-91,"tropical depression","-1",25,1006,NA,NA
+"64","Debby",9,1,0,20.2,-91.7,"tropical depression","-1",25,1005,NA,NA
+"65","Debby",9,1,6,20.3,-92.4,"tropical depression","-1",25,1005,NA,NA
+"66","Debby",9,1,12,20.4,-93.1,"tropical depression","-1",25,1004,NA,NA
+"67","Debby",9,1,18,20.5,-93.8,"tropical depression","-1",30,1003,NA,NA
+"68","Debby",9,2,0,20.6,-94.5,"tropical depression","-1",30,1003,NA,NA
+"69","Debby",9,2,6,20.7,-95.2,"tropical storm","0",40,1001,NA,NA
+"70","Debby",9,2,12,20.8,-95.9,"tropical storm","0",50,998,NA,NA
+"71","Debby",9,2,18,20.8,-96.6,"hurricane","1",65,992,NA,NA
+"72","Debby",9,3,0,20.7,-97.3,"hurricane","1",65,987,NA,NA
+"73","Debby",9,3,6,20.5,-98.1,"tropical storm","0",50,995,NA,NA
+"74","Debby",9,3,12,20.3,-98.9,"tropical storm","0",35,998,NA,NA
+"75","Debby",9,3,18,20,-99.8,"tropical depression","-1",30,999,NA,NA
+"76","Debby",9,4,0,19.8,-100.7,"tropical depression","-1",30,1000,NA,NA
+"77","Debby",9,4,6,19.6,-101.6,"tropical depression","-1",30,1000,NA,NA
+"78","Debby",9,4,12,19.5,-102.5,"tropical depression","-1",30,1000,NA,NA
+"79","Debby",9,4,18,19.4,-103.4,"tropical depression","-1",30,1001,NA,NA
+"80","Debby",9,5,0,19.5,-104.3,"tropical depression","-1",30,1001,NA,NA
+"81","Debby",9,5,6,19.6,-105.1,"tropical depression","-1",30,1002,NA,NA
+"82","Debby",9,5,12,19.9,-105.9,"tropical depression","-1",30,1003,NA,NA
+"83","Debby",9,5,18,20.5,-106.4,"tropical depression","-1",30,1004,NA,NA
+"84","Debby",9,6,0,21,-106.8,"tropical depression","-1",30,1004,NA,NA
+"85","Debby",9,6,6,21.5,-107.1,"tropical depression","-1",30,1005,NA,NA
+"86","Debby",9,6,12,22,-107.4,"tropical depression","-1",25,1005,NA,NA
+"87","Debby",9,6,18,22.5,-107.7,"tropical depression","-1",25,1006,NA,NA
+"88","Debby",9,7,0,23,-108,"tropical depression","-1",25,1006,NA,NA
+"89","Debby",9,7,6,23.5,-108.3,"tropical depression","-1",25,1007,NA,NA
+"90","Debby",9,7,12,23.9,-108.5,"tropical depression","-1",25,1007,NA,NA
+"91","Debby",9,7,18,24.2,-108.7,"tropical depression","-1",25,1007,NA,NA
+"92","Debby",9,8,0,24.4,-108.9,"tropical depression","-1",25,1008,NA,NA
+"93","Debby",9,8,6,24.3,-109.1,"tropical depression","-1",20,1008,NA,NA
+"94","Debby",9,8,12,24.2,-109.3,"tropical depression","-1",20,1008,NA,NA
+"95","Debby",9,8,18,24,-109,"tropical depression","-1",20,1008,NA,NA
+"96","Ernesto",9,3,0,32.5,-60.5,"tropical depression","-1",25,1016,NA,NA
+"97","Ernesto",9,3,6,33.1,-59.2,"tropical depression","-1",25,1012,NA,NA
+"98","Ernesto",9,3,12,34.3,-56.5,"tropical depression","-1",30,1008,NA,NA
+"99","Ernesto",9,3,18,35.2,-53.1,"tropical storm","0",35,1004,NA,NA
+"100","Ernesto",9,4,0,35.9,-49.5,"tropical storm","0",40,1001,NA,NA
+"101","Ernesto",9,4,6,36.6,-44.4,"tropical storm","0",45,999,NA,NA
+"102","Ernesto",9,4,12,38,-39.5,"tropical storm","0",50,997,NA,NA
+"103","Ernesto",9,4,18,40.2,-35,"tropical storm","0",50,996,NA,NA
+"104","Ernesto",9,5,0,43.1,-29.7,"tropical storm","0",55,994,NA,NA
+"105","AL061988",9,7,0,12.5,-17.5,"tropical depression","-1",25,1011,NA,NA
+"106","AL061988",9,7,6,13.1,-18,"tropical depression","-1",25,1011,NA,NA
+"107","AL061988",9,7,12,13.8,-18.5,"tropical storm","0",35,1008,NA,NA
+"108","AL061988",9,7,18,14.8,-19,"tropical storm","0",35,1007,NA,NA
+"109","AL061988",9,8,0,15.3,-19.1,"tropical storm","0",40,1005,NA,NA
+"110","AL061988",9,8,6,16.4,-19.8,"tropical storm","0",40,1003,NA,NA
+"111","AL061988",9,8,12,17.5,-20.5,"tropical storm","0",50,1002,NA,NA
+"112","AL061988",9,8,18,18.8,-21,"tropical storm","0",50,999,NA,NA
+"113","AL061988",9,9,0,19.9,-21.6,"tropical storm","0",50,994,NA,NA
+"114","AL061988",9,9,6,21.4,-22,"tropical storm","0",50,996,NA,NA
+"115","AL061988",9,9,12,22.9,-22.5,"tropical storm","0",35,1005,NA,NA
+"116","AL061988",9,9,18,24,-22.5,"tropical depression","-1",25,1006,NA,NA
+"117","AL061988",9,10,0,25,-23,"tropical depression","-1",25,1009,NA,NA
+"118","Gilbert",9,8,18,12,-54,"tropical depression","-1",25,1008,NA,NA
+"119","Gilbert",9,9,0,12.7,-55.6,"tropical depression","-1",25,1007,NA,NA
+"120","Gilbert",9,9,6,13.3,-57.1,"tropical depression","-1",30,1006,NA,NA
+"121","Gilbert",9,9,12,14,-58.6,"tropical depression","-1",30,1005,NA,NA
+"122","Gilbert",9,9,18,14.5,-60.1,"tropical storm","0",35,1004,NA,NA
+"123","Gilbert",9,10,0,14.8,-61.5,"tropical storm","0",40,1002,NA,NA
+"124","Gilbert",9,10,6,15,-62.8,"tropical storm","0",45,998,NA,NA
+"125","Gilbert",9,10,12,15.3,-64.1,"tropical storm","0",50,995,NA,NA
+"126","Gilbert",9,10,18,15.7,-65.4,"tropical storm","0",55,992,NA,NA
+"127","Gilbert",9,11,0,15.9,-66.8,"hurricane","1",65,989,NA,NA
+"128","Gilbert",9,11,6,16.2,-68,"hurricane","1",80,982,NA,NA
+"129","Gilbert",9,11,12,16.1,-69.5,"hurricane","2",95,975,NA,NA
+"130","Gilbert",9,11,18,16.2,-70.7,"hurricane","3",100,970,NA,NA
+"131","Gilbert",9,12,0,16.8,-72,"hurricane","3",105,964,NA,NA
+"132","Gilbert",9,12,6,17.3,-73.7,"hurricane","3",110,962,NA,NA
+"133","Gilbert",9,12,12,17.6,-75.3,"hurricane","3",110,960,NA,NA
+"134","Gilbert",9,12,17,17.8,-76.8,"hurricane","4",115,960,NA,NA
+"135","Gilbert",9,12,18,17.9,-76.9,"hurricane","3",110,960,NA,NA
+"136","Gilbert",9,13,0,18.2,-78.5,"hurricane","3",110,960,NA,NA
+"137","Gilbert",9,13,6,18.5,-79.7,"hurricane","4",115,952,NA,NA
+"138","Gilbert",9,13,12,18.8,-81.1,"hurricane","4",125,934,NA,NA
+"139","Gilbert",9,13,18,19.4,-82.5,"hurricane","5",140,905,NA,NA
+"140","Gilbert",9,14,0,19.7,-83.8,"hurricane","5",160,888,NA,NA
+"141","Gilbert",9,14,6,19.9,-85.3,"hurricane","5",155,889,NA,NA
+"142","Gilbert",9,14,12,20.4,-86.5,"hurricane","5",145,892,NA,NA
+"143","Gilbert",9,14,15,20.7,-87,"hurricane","5",140,900,NA,NA
+"144","Gilbert",9,14,18,20.9,-87.8,"hurricane","4",130,925,NA,NA
+"145","Gilbert",9,15,0,21.3,-89.5,"hurricane","3",100,944,NA,NA
+"146","Gilbert",9,15,6,21.6,-90.7,"hurricane","2",90,949,NA,NA
+"147","Gilbert",9,15,12,21.9,-91.7,"hurricane","2",85,950,NA,NA
+"148","Gilbert",9,15,18,22.1,-92.8,"hurricane","2",90,950,NA,NA
+"149","Gilbert",9,16,0,22.5,-93.8,"hurricane","3",100,949,NA,NA
+"150","Gilbert",9,16,6,22.9,-94.8,"hurricane","3",110,946,NA,NA
+"151","Gilbert",9,16,12,23.7,-95.9,"hurricane","4",115,948,NA,NA
+"152","Gilbert",9,16,18,23.9,-97,"hurricane","4",115,950,NA,NA
+"153","Gilbert",9,16,22,24.2,-97.8,"hurricane","3",110,955,NA,NA
+"154","Gilbert",9,17,0,24.4,-98.2,"hurricane","1",80,964,NA,NA
+"155","Gilbert",9,17,6,24.8,-99.3,"tropical storm","0",50,988,NA,NA
+"156","Gilbert",9,17,12,25,-100.5,"tropical storm","0",35,996,NA,NA
+"157","Gilbert",9,17,18,25.4,-101.9,"tropical depression","-1",30,1000,NA,NA
+"158","Gilbert",9,18,0,26,-103.2,"tropical depression","-1",30,1002,NA,NA
+"159","Gilbert",9,18,6,27.6,-103.7,"tropical depression","-1",30,1004,NA,NA
+"160","Gilbert",9,18,12,29.3,-102.6,"tropical depression","-1",25,1003,NA,NA
+"161","Gilbert",9,18,18,31.5,-101.3,"tropical depression","-1",25,1003,NA,NA
+"162","Gilbert",9,19,0,33.2,-99.7,"tropical depression","-1",25,1002,NA,NA
+"163","Gilbert",9,19,6,35.8,-97.7,"tropical depression","-1",25,1001,NA,NA
+"164","Gilbert",9,19,12,37.7,-93.2,"tropical depression","-1",25,999,NA,NA
+"165","Isaac",9,28,18,9,-45.5,"tropical depression","-1",25,1009,NA,NA
+"166","Isaac",9,29,0,9.1,-47,"tropical depression","-1",25,1008,NA,NA
+"167","Isaac",9,29,6,9.3,-48.7,"tropical depression","-1",25,1007,NA,NA
+"168","Isaac",9,29,12,9.5,-50,"tropical depression","-1",25,1007,NA,NA
+"169","Isaac",9,29,18,9.6,-51.3,"tropical depression","-1",30,1006,NA,NA
+"170","Isaac",9,30,0,9.8,-52.2,"tropical depression","-1",30,1006,NA,NA
+"171","Isaac",9,30,6,10.2,-53.1,"tropical depression","-1",30,1006,NA,NA
+"172","Isaac",9,30,12,10.8,-54.5,"tropical depression","-1",30,1005,NA,NA
+"173","Isaac",9,30,18,11.4,-56,"tropical storm","0",35,1005,NA,NA
+"174","Isaac",10,1,0,11.8,-57.7,"tropical storm","0",40,1005,NA,NA
+"175","Isaac",10,1,6,12,-59.5,"tropical storm","0",35,1005,NA,NA
+"176","Isaac",10,1,12,12,-61.2,"tropical depression","-1",30,1006,NA,NA
+"177","Joan",10,10,18,8.9,-42.2,"tropical depression","-1",25,1010,NA,NA
+"178","Joan",10,11,0,9.5,-43.6,"tropical depression","-1",30,1008,NA,NA
+"179","Joan",10,11,6,10.1,-45,"tropical storm","0",35,1005,NA,NA
+"180","Joan",10,11,12,10.7,-46.4,"tropical storm","0",40,1003,NA,NA
+"181","Joan",10,11,18,11.2,-47.9,"tropical storm","0",45,1000,NA,NA
+"182","Joan",10,12,0,11.5,-49,"tropical storm","0",50,999,NA,NA
+"183","Joan",10,12,6,11.8,-50.1,"tropical storm","0",45,1000,NA,NA
+"184","Joan",10,12,12,12.1,-51.3,"tropical storm","0",45,1003,NA,NA
+"185","Joan",10,12,18,12.3,-52.5,"tropical storm","0",40,1006,NA,NA
+"186","Joan",10,13,0,12.4,-53.8,"tropical storm","0",40,1007,NA,NA
+"187","Joan",10,13,6,12.5,-54.9,"tropical storm","0",40,1007,NA,NA
+"188","Joan",10,13,12,12.6,-56,"tropical storm","0",40,1006,NA,NA
+"189","Joan",10,13,18,12.7,-57.1,"tropical storm","0",40,1005,NA,NA
+"190","Joan",10,14,0,12.6,-58.3,"tropical storm","0",40,1003,NA,NA
+"191","Joan",10,14,6,12.4,-59.4,"tropical storm","0",40,1002,NA,NA
+"192","Joan",10,14,12,12.2,-60,"tropical storm","0",45,1001,NA,NA
+"193","Joan",10,14,18,12,-60.8,"tropical storm","0",45,1001,NA,NA
+"194","Joan",10,15,0,12.1,-61.5,"tropical storm","0",45,1003,NA,NA
+"195","Joan",10,15,1,12.1,-61.8,"tropical storm","0",45,1003,NA,NA
+"196","Joan",10,15,6,12.1,-62.8,"tropical storm","0",45,1004,NA,NA
+"197","Joan",10,15,12,12,-63.8,"tropical storm","0",45,1004,NA,NA
+"198","Joan",10,15,18,11.9,-64.9,"tropical storm","0",45,1003,NA,NA
+"199","Joan",10,16,0,12,-66.1,"tropical storm","0",45,1002,NA,NA
+"200","Joan",10,16,6,12,-67.2,"tropical storm","0",50,1001,NA,NA
+"201","Joan",10,16,12,11.9,-68.2,"tropical storm","0",50,1000,NA,NA
+"202","Joan",10,16,18,12,-69.2,"tropical storm","0",50,999,NA,NA
+"203","Joan",10,17,0,12,-70.2,"tropical storm","0",55,998,NA,NA
+"204","Joan",10,17,6,12,-71.2,"tropical storm","0",55,997,NA,NA
+"205","Joan",10,17,12,11.9,-72.1,"tropical storm","0",60,995,NA,NA
+"206","Joan",10,17,18,11.8,-73,"tropical storm","0",60,993,NA,NA
+"207","Joan",10,18,0,11.8,-74,"hurricane","1",65,990,NA,NA
+"208","Joan",10,18,6,11.7,-75,"hurricane","1",70,987,NA,NA
+"209","Joan",10,18,12,11.5,-75.8,"hurricane","1",75,984,NA,NA
+"210","Joan",10,18,18,11.3,-76.5,"hurricane","1",80,980,NA,NA
+"211","Joan",10,19,0,11.2,-77.2,"hurricane","2",90,976,NA,NA
+"212","Joan",10,19,6,11.3,-77.8,"hurricane","2",95,970,NA,NA
+"213","Joan",10,19,12,11.4,-78.3,"hurricane","3",105,960,NA,NA
+"214","Joan",10,19,18,11.3,-78.9,"hurricane","3",110,953,NA,NA
+"215","Joan",10,20,0,11.3,-79.3,"hurricane","3",105,956,NA,NA
+"216","Joan",10,20,6,11.1,-79.8,"hurricane","2",85,967,NA,NA
+"217","Joan",10,20,12,11.1,-79.5,"hurricane","1",70,971,NA,NA
+"218","Joan",10,20,18,11.3,-79.9,"hurricane","1",70,973,NA,NA
+"219","Joan",10,21,0,11.5,-80.3,"hurricane","1",75,972,NA,NA
+"220","Joan",10,21,6,11.5,-80.7,"hurricane","2",90,970,NA,NA
+"221","Joan",10,21,12,11.6,-81.2,"hurricane","3",100,964,NA,NA
+"222","Joan",10,21,18,11.8,-81.8,"hurricane","3",110,952,NA,NA
+"223","Joan",10,22,0,11.9,-82.5,"hurricane","4",120,937,NA,NA
+"224","Joan",10,22,6,11.9,-83.2,"hurricane","4",125,932,NA,NA
+"225","Joan",10,22,10,11.9,-83.7,"hurricane","4",125,932,NA,NA
+"226","Joan",10,22,12,11.9,-83.9,"hurricane","4",120,936,NA,NA
+"227","Joan",10,22,18,12,-85,"hurricane","1",70,983,NA,NA
+"228","Joan",10,23,0,12.1,-85.9,"tropical storm","0",55,993,NA,NA
+"229","Joan",10,23,6,12.2,-86.8,"tropical storm","0",45,1000,NA,NA
+"230","Keith",11,17,18,14.9,-74.3,"tropical depression","-1",30,1008,NA,NA
+"231","Keith",11,18,0,15,-75.5,"tropical depression","-1",30,1008,NA,NA
+"232","Keith",11,18,6,15,-76.5,"tropical depression","-1",30,1008,NA,NA
+"233","Keith",11,18,12,15,-77.7,"tropical depression","-1",30,1008,NA,NA
+"234","Keith",11,18,18,15,-79,"tropical depression","-1",30,1008,NA,NA
+"235","Keith",11,19,0,15,-79.9,"tropical depression","-1",30,1007,NA,NA
+"236","Keith",11,19,6,15.1,-80.4,"tropical depression","-1",30,1007,NA,NA
+"237","Keith",11,19,12,15.2,-81.2,"tropical depression","-1",30,1007,NA,NA
+"238","Keith",11,19,18,15.5,-81.8,"tropical depression","-1",30,1006,NA,NA
+"239","Keith",11,20,0,15.8,-82.6,"tropical depression","-1",30,1005,NA,NA
+"240","Keith",11,20,6,16.3,-83.4,"tropical storm","0",35,1004,NA,NA
+"241","Keith",11,20,12,17.8,-84.5,"tropical storm","0",40,1002,NA,NA
+"242","Keith",11,20,18,19.1,-85.4,"tropical storm","0",45,997,NA,NA
+"243","Keith",11,21,0,19.8,-86.1,"tropical storm","0",60,985,NA,NA
+"244","Keith",11,21,6,20.7,-86.6,"tropical storm","0",60,993,NA,NA
+"245","Keith",11,21,8,21.2,-86.8,"tropical storm","0",60,993,NA,NA
+"246","Keith",11,21,12,21.8,-87,"tropical storm","0",60,993,NA,NA
+"247","Keith",11,21,18,22.4,-87.2,"tropical storm","0",60,990,NA,NA
+"248","Keith",11,22,0,23.1,-87,"tropical storm","0",60,993,NA,NA
+"249","Keith",11,22,6,23.8,-86.8,"tropical storm","0",55,995,NA,NA
+"250","Keith",11,22,12,24.4,-86.2,"tropical storm","0",55,995,NA,NA
+"251","Keith",11,22,18,25.5,-85.1,"tropical storm","0",55,993,NA,NA
+"252","Keith",11,23,0,26.5,-84.2,"tropical storm","0",55,994,NA,NA
+"253","Keith",11,23,6,27.3,-82.8,"tropical storm","0",55,995,NA,NA
+"254","Keith",11,23,7,27.3,-82.6,"tropical storm","0",55,995,NA,NA
+"255","Keith",11,23,12,27.9,-81.3,"tropical storm","0",35,999,NA,NA
+"256","Keith",11,23,18,28.9,-79.8,"tropical storm","0",40,998,NA,NA
+"257","Keith",11,24,0,29.7,-77.7,"tropical storm","0",50,995,NA,NA
+"258","Keith",11,24,6,31,-75.2,"tropical storm","0",55,992,NA,NA
+"259","Keith",11,24,12,32.5,-70.5,"tropical storm","0",60,990,NA,NA
